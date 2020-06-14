@@ -172,3 +172,6 @@ config.rst
 package-lock.json
 geckodriver.log
 *.iml
+HW3/data/players.pkl
+HW3/data/results.pkl
+HW3/data/tournaments.pkl
